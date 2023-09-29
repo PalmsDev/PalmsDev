@@ -2,7 +2,7 @@
 
 ##🌱 I’m currently learning ...
 
-# looking for meaning of life
+# looking for the meaning of life🤔
 
 <!--
 **PalmsDev/PalmsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
